@@ -1,1 +1,1 @@
-alert("Desafio Git");
+alert("Atualizando o clone do repositório");
