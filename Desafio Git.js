@@ -1,1 +1,1 @@
-alert("Atualizando o clone do repositório");
+alert("Gerando conflito");
