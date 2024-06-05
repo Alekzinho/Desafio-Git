@@ -1,1 +1,2 @@
-alert("Conflito");
+alert("Conflito resolvido");
+
