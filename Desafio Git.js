@@ -1,1 +1,1 @@
-alert("Gerando conflitos");
+alert("Conflito");
